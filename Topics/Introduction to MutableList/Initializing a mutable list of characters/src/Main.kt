@@ -1,0 +1,1 @@
+fun main() = println("a, z, e, d")

@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/production/classes/
+/Topics/Introduction to MutableList/Swap/out/
+/Topics/Introduction to MutableList/Swap/out/production/classes/
+/Topics/Introduction to MutableList/Theory/out/
+/Topics/Introduction to MutableList/Theory/out/production/classes/
+/Zookeeper/task/build/
+/Zookeeper/task/out/
+/Zookeeper/task/out/production/classes/

@@ -1,0 +1,1 @@
+fun main() = ("1" + ", 0".repeat(8) + ", 10" + ", 0".repeat(89) + ", 100").let(::println)
